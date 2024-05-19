@@ -1,0 +1,3 @@
+; MalCare WAF
+auto_prepend_file = '/home/1124801.cloudwaysapps.com/gnxqtgkyrj/public_html/malcare-waf.php'
+; END MalCare WAF
